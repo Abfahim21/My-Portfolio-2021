@@ -1,0 +1,56 @@
+@media only screen and (max-device-width: 1399px) {
+    div#header .mobile-menubar{
+        visibility:hidden;
+    }
+}
+@media only screen and (max-device-width: 1199px) {
+    ul.navbar-menu {
+        position: absolute;
+    }
+    
+}
+@media only screen and (max-device-width: 1009px) {
+    ul.navbar-menu{
+        right: 120px;
+    }
+   
+px
+;
+}
+
+@media only screen and (max-device-width: 991px) {
+    ul.navbar-menu {
+        right: 24%;
+    }
+    ul.navbar-menu {
+        right: 13%;
+        position: absolute;
+        top: -20%;
+    }
+    
+}
+
+@media only screen and (max-device-width: 767px) {
+    div#header .mobile-menubar {
+        visibility: visible;
+        top: 27%;
+    }
+    ul.navbar-menu {
+        visibility: hidden;
+    }
+    .hero-image h2 {
+        font-size: 50px;
+        padding: 75
+    px
+     0 0 0;
+    }
+    ul.navbar-menu.show {
+        visibility: visible;
+        display: flex;
+        flex-direction: column;
+        background: #000000d9;
+        padding: 0px 12px 0px 25px;
+        margin: 45px -33px 0px 0px;
+    }
+    
+}
