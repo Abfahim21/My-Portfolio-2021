@@ -27,9 +27,9 @@ h1 {
     color: #FFFFFF;
 }
 img {
-    height: 100%;
-    width: 100%;
-    object-fit: contain; 
+    height: 225px;
+    width: 312px;
+    object-fit: contain;
 }
 .header-section {
     position: fixed;
@@ -193,9 +193,12 @@ button.btn-lrg.submit-btn {
     color: #232323;
     display: inline-block;
     border-radius: 37px;
-    padding: 7px 35px;
+    padding: 10px 50px;
     font-size: 18px;
+    border: 1px solid white;
     cursor: pointer;
+    border-radius: 10px;
+    margin-top: 15px;
 }
 .my-services-heading {
     padding: 5px 0 25px 0;
