@@ -103,6 +103,10 @@ h2.about-me-text {
     color: white;
     padding: 34px 0 100px 0;
 }
+.about-me-image img {
+    height: auto;
+    width: 100%;
+}
 .progress {
     background-color: black;
     height: 5px;
