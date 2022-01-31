@@ -1,3 +1,27 @@
+@media only screen and (max-device-width: 320px) {
+    div#header .mobile-menubar{
+        visibility:hidden;
+    }
+    h1 {
+        margin: 10px 0px 0px 5px;
+        padding: 0px 0 10px 0;
+    }
+    .hero-image h2{
+        font-size: 35px;
+        text-align: center;
+        padding-top: 60px;
+    }
+    .hero-image p{
+        text-align: center;
+    }
+    h2.about-me-text{
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .about-me{
+        padding: 10px 0 50px 0;
+    }
+}
 @media only screen and (max-device-width: 1399px) {
     div#header .mobile-menubar{
         visibility:hidden;
