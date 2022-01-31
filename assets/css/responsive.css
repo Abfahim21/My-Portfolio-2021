@@ -21,6 +21,15 @@
     .about-me{
         padding: 10px 0 50px 0;
     }
+    .about-me-image img{
+        padding-left: 25px;
+    }
+    .download-cv.mt-3 {
+        text-align: center;
+    }
+    .my-services-heading h2{
+        margin-top: -20px;
+    }
 }
 @media only screen and (max-device-width: 1399px) {
     div#header .mobile-menubar{

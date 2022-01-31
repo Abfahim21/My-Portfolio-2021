@@ -61,9 +61,6 @@ img {
     opacity: 0.3;
     z-index: -1;
 }
-/*------------------------------------------------------- 
-                code start by joynal 
---------------------------------------------------------*/
 .hero-image {
     height: 100vh;
     width: 100vw;
@@ -82,9 +79,6 @@ img {
     object-fit: cover;
     object-position: bottom;
 }
-/*------------------------------------------------------- 
-                code end by joynal 
---------------------------------------------------------*/
 .social-icon li {
     list-style-type: none;
     display: inline-block;
@@ -140,7 +134,7 @@ h2.about-me-text {
 }
 .contact {
     background-color: #313131;
-    padding: 0 0 120px 0px;
+    padding-bottom: 80px;
 }
 
 .contact-heading {
